@@ -1,0 +1,7 @@
+auv_llm_env/
+venv/
+__pycache__/
+*.dylib
+*.so
+*.log
+.DS_Store
